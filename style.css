@@ -1,0 +1,16 @@
+body{
+	background-color: #f1f1f1;
+	font-family: Georgia,"Bitstream Charter",serif;
+}
+.list{
+	background-color: #fff;
+	height: 2000px;
+	width: 940px;
+	margin: 20px auto;
+	padding: 20px;
+}
+.horizontal-line{
+	border: 0;
+	height: 1px;
+	background-color: #e7e7e7;
+}
